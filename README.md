@@ -174,12 +174,28 @@ Cuando el conductor está próximo a arribar al lugar de origen, el cliente reci
 *Chofer próximo a arribar*
 
 ### Viaje en curso
+Durante el viaje, se muestra la ubicación actual del auto y el tiempo estimado faltante para la llegada. 
+
+<img src="https://user-images.githubusercontent.com/65830097/207980491-7679701c-5f8d-49d5-97ec-3d0b2f8c28b9.png" width=20% height=20%>
+
+*Viaje en curso*
+
+<img src="https://user-images.githubusercontent.com/65830097/207980519-7bd22927-4097-4290-b621-8b759983c681.png" width=20% height=20%>
+
+*Viaje en curso*
+
+### Viaje finalizado
+
+Cuando el viaje es finalizado por el chofer, el pasajero recibe una notificación push inicándolo.
+
+<img src="https://user-images.githubusercontent.com/65830097/207980700-6a67ec2b-981f-4123-b591-5e2a3fff471b.png" width=20% height=20%>
+
+*Viaje Finalizado*
 
 
-<img src="" width=20% height=20%>
 
 
-<img src="" width=20% height=20%>
+
 <img src="" width=20% height=20%>
 <img src="" width=20% height=20%>
 <img src="" width=20% height=20%>

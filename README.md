@@ -53,8 +53,7 @@ Si se selecciona el ícono de Google en la pantalla de Inicio, se debe elegir la
 
 <img src="https://user-images.githubusercontent.com/65830097/207972622-d1fb0bef-4c66-4dc0-b568-14d16cd71d2f.png" width=20% height=20%>
 
-*Seleccionar cuenta de Google*
-
+*Inicio de sesión con cuenta de Google*
 
 
 ## Completar el perfil
@@ -192,11 +191,53 @@ Cuando el viaje es finalizado por el chofer, el pasajero recibe una notificació
 
 *Viaje Finalizado*
 
+## Aplicación para el Chofer
+
+Desde la pantalla principal, seleccionando **Driver App**, se accede a la aplicación específica del chofer. 
+
+### Registrar el perfil de Conductor
+La primera vez que se accede, se deben completar los datos específicos del conductor. 
+
+<img src="https://user-images.githubusercontent.com/65830097/207982512-0b4ad15c-4a0b-48bb-ae53-1df8c2f17c67.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/65830097/207982526-d58e86db-9cfb-437b-9147-9723e82da8ea.png" width=20% height=20%>
+
+*Completar datos del conductor*
+
+Ya habiendo cargado los datos, se observa la siguiente imágen.
+
+<img src="https://user-images.githubusercontent.com/65830097/207982627-a257d625-5673-4d03-b184-89c88ce7f824.png" width=20% height=20%>
+
+*Pantalla Principal de la Aplicación del Chofer*
 
 
+### Visualizar Mi Perfil
+Al igual que en la parte del pasajero, el chofer puede visualizar los datos los datos de la billetera, los de su vehículo, y modificarlos.
 
 
-<img src="" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/65830097/207983371-a3427161-11c9-45d4-aeaa-6430f4177401.png" width=20% height=20%>
+
+*Visualizar datos del auto*
+
+### Búsqueda de Pasajero
+Al ingresar a la aplicación de chofer, el usuario activa la búsqueda de pasajeros. Esto es, los pasajeros pueden solicitarle viajes. Cuando un pasajero desea comenzar un viaje con el presente conductor, este último recibe una notificación push.
+
+### Chofer en viaje
+Si el chofer decide aceptar el viaje, pasa a una pantalla en la que se muestra la ubicación del auto en tiempo real.
+
+<img src="https://user-images.githubusercontent.com/65830097/207984499-f314d029-097b-4b67-92a8-5a009d96b1e3.png" width=20% height=20%>
+
+*Chofer en viaje*
+
+Al llegar al lugar de origen, recibe una notificación indicando que está próximo al inicio de viaje.
+
+<img src="https://user-images.githubusercontent.com/65830097/207984559-9f54d5b1-5978-489e-a04c-c4c81830938d.png" width=20% height=20%>
+
+*Chofer llega al origen*
+
+### Viaje en curso
+Al 
+
+
 <img src="" width=20% height=20%>
 <img src="" width=20% height=20%>
 

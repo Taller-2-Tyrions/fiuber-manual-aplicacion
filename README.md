@@ -111,6 +111,40 @@ De un modo similar, al pulsar sobre la billetra, se muestran los datos de la bil
 
 ## Inicio de Viaje
 
+Al seleccionar **Iniciar Viaje** se pasa a la siguiente pantalla en la que se selecciona el viaje que se desea.
+
+<img src="https://user-images.githubusercontent.com/65830097/207976168-c3165a10-797c-4211-9048-caedebebae49.png" width=20% height=20%>
+
+*Pantalla de Inicio de Viaje*
+
+<img src="https://user-images.githubusercontent.com/65830097/207976181-92ea8cd2-673e-41bc-aa54-055ec31c1970.png" width=20% height=20%>
+
+*Selección de lugar de origen*
+
+<img src="https://user-images.githubusercontent.com/65830097/207976209-9563a945-56b2-4182-a4c0-a7527f76ecc7.png" width=20% height=20%>
+
+*Selección de lugar de destino*
+
+<img src="https://user-images.githubusercontent.com/65830097/207976221-8aac4002-9c8c-4940-8bc3-07c56c40ee85.png" width=20% height=20%>
+
+*Recorrido estimado del viaje*
+
+Luego de confirmar el origen y destino del viaje, se presentan una serie de choferes disponibles para el pasajero, junto con el precio estimado de cada uno. Además, se pueden observar los reviews recibidos por otros viajes que realizó.
+
+
+<img src="https://user-images.githubusercontent.com/65830097/207976248-1bd32b29-454f-45c3-b4d4-a24c57b6a447.png" width=20% height=20%>
+
+*Pantalla de espera por choferes*
+
+<img src="https://user-images.githubusercontent.com/65830097/207976263-d3c62239-da7a-4187-bc81-e4f9a5d145ad.png" width=20% height=20%>
+
+*Lista de choferes disponibles*
+
+
+
+
+
+
 
 
 

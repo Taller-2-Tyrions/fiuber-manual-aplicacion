@@ -238,9 +238,24 @@ Al llegar al lugar de origen, recibe una notificación indicando que está próx
 Una vez que el chofer confirma que el viaje inició, se pasa a la pantalla de viaje en curso para el chofer.
 
 
+<img src="https://user-images.githubusercontent.com/65830097/207985581-203b90e9-1fba-476b-a76f-5b8f6a991342.png" width=20% height=20%>
+
+*Viaje en curso*
+
+<img src="https://user-images.githubusercontent.com/65830097/207985593-e5c69c09-4d09-4c44-9af2-28b334f96912.png" width=20% height=20%>
+
+*Viaje en curso, próximo a finalizar*
+
+Durante el viaje en curso, el chofer puede cancelarlo y no se beneficiará económicamente por el mismo. El pasajero por su parte, no pagará lo recorrido.
 
 
-<img src="" width=20% height=20%>
+### Fin de viaje
+
+
+<img src="https://user-images.githubusercontent.com/65830097/207986141-75a271f0-d243-4414-80fa-d50f7f1642f8.png" width=20% height=20%>
+
+**
+
 <img src="" width=20% height=20%>
 
 <img src="" width=20% height=20%>

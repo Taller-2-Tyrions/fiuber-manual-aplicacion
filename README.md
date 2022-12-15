@@ -108,7 +108,9 @@ De un modo similar, al pulsar sobre la billetra, se muestran los datos de la bil
 *Datos de la billetera del usuario*
 
 
-## Inicio de Viaje
+## Viaje desde la perspectiva de un pasajero
+
+### Inicio de Viaje
 
 Al seleccionar **Iniciar Viaje** se pasa a la siguiente pantalla en la que se selecciona el viaje que se desea.
 
@@ -195,7 +197,7 @@ Cuando el viaje es finalizado por el chofer, el pasajero recibe una notificació
 
 Desde la pantalla principal, seleccionando **Driver App**, se accede a la aplicación específica del chofer. 
 
-### Registrar el perfil de Conductor
+## Registrar el perfil de Conductor
 La primera vez que se accede, se deben completar los datos específicos del conductor. 
 
 <img src="https://user-images.githubusercontent.com/65830097/207982512-0b4ad15c-4a0b-48bb-ae53-1df8c2f17c67.png" width=20% height=20%>
@@ -210,13 +212,15 @@ Ya habiendo cargado los datos, se observa la siguiente imágen.
 *Pantalla Principal de la Aplicación del Chofer*
 
 
-### Visualizar Mi Perfil
+## Visualizar Mi Perfil
 Al igual que en la parte del pasajero, el chofer puede visualizar los datos los datos de la billetera, los de su vehículo, y modificarlos.
 
 
 <img src="https://user-images.githubusercontent.com/65830097/207983371-a3427161-11c9-45d4-aeaa-6430f4177401.png" width=20% height=20%>
 
 *Visualizar datos del auto*
+
+## Viaje desde la perspectiva de un Conductor
 
 ### Búsqueda de Pasajero
 Al ingresar a la aplicación de chofer, el usuario activa la búsqueda de pasajeros. Esto es, los pasajeros pueden solicitarle viajes. Cuando un pasajero desea comenzar un viaje con el presente conductor, este último recibe una notificación push.

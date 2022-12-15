@@ -294,3 +294,6 @@ A su vez, se puede denunciar al conductor para notificar a los administradores d
 
 <img src="https://user-images.githubusercontent.com/65830097/207987696-cf2ee36b-8594-48a5-a5d8-21f67ee9eae7.png" width=20% height=20%>
 
+*Denuncia del Conductor*
+
+

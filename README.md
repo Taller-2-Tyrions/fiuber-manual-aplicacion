@@ -113,6 +113,8 @@ De un modo similar, al pulsar sobre la billetra, se muestran los datos de la bil
 
 Al seleccionar **Iniciar Viaje** se pasa a la siguiente pantalla en la que se selecciona el viaje que se desea.
 
+### Cargar Recorrido
+
 <img src="https://user-images.githubusercontent.com/65830097/207976168-c3165a10-797c-4211-9048-caedebebae49.png" width=20% height=20%>
 
 *Pantalla de Inicio de Viaje*
@@ -129,8 +131,9 @@ Al seleccionar **Iniciar Viaje** se pasa a la siguiente pantalla en la que se se
 
 *Recorrido estimado del viaje*
 
-Luego de confirmar el origen y destino del viaje, se presentan una serie de choferes disponibles para el pasajero, junto con el precio estimado de cada uno. Además, se pueden observar los reviews recibidos por otros viajes que realizó.
+### Seleccionar Conductor
 
+Luego de confirmar el origen y destino del viaje, se presentan una serie de choferes disponibles para el pasajero, junto con el precio estimado de cada uno. Además, se pueden observar los reviews recibidos por otros viajes que realizó.
 
 <img src="https://user-images.githubusercontent.com/65830097/207976248-1bd32b29-454f-45c3-b4d4-a24c57b6a447.png" width=20% height=20%>
 
@@ -141,8 +144,7 @@ Luego de confirmar el origen y destino del viaje, se presentan una serie de chof
 *Lista de choferes disponibles*
 
 
-
-
+Al seleccionar un viaje, se le solicita al chofer que confirme si desea llevarlo a cabo. Si el pasajero no tiene el saldo suficiente para 
 
 
 

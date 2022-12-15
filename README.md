@@ -91,7 +91,26 @@ Desde la misma, se puede acceder a todas las funcionalidades.
 
 ## Visualizar Mi Perfil
 
+### Datos personales
+
 Desde la página principal, seleccionar el ícono con una persona en la esquina superior derecha. La misma muestra la información del perfil del usuario, y permite tanto editar esos campos, como suscribir al usuario al servicio VIP que ofrece Fiuber.
 
 <img src="https://user-images.githubusercontent.com/65830097/207973986-381d2a6a-54a9-4c6d-8258-bc37c830d3e2.png" width=20% height=20%>
+
+*Datos personales del usuario*
+
+### Billetera
+
+De un modo similar, al pulsar sobre la billetra, se muestran los datos de la billetera. 
+
+
+<img src="https://user-images.githubusercontent.com/65830097/207974497-b2f31d9a-737a-4bcf-9cbd-3bf6c26bb306.png" width=20% height=20%>
+
+*Datos de la billetera del usuario*
+
+
+## Inicio de Viaje
+
+
+
 

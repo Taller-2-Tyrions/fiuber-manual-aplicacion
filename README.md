@@ -1,6 +1,6 @@
 # Manual de Usuario para la Aplicación Mobile
 
-La aplicación mobile Fiuber permite conectar pasajeros que solicitan viajes con choferes dispuestos a realizarlos. Este doucmento es un manual para los usuarios (tanto pasajeros como choferes), que busquen gozar de los múltiples beneficios que ofrece Fiuber.  
+La aplicación mobile Fiuber permite conectar pasajeros que solicitan viajes con choferes dispuestos a realizarlos. Este documento es un manual para los usuarios (tanto pasajeros como choferes), que busquen gozar de los múltiples beneficios que ofrece Fiuber.  
 
 ## Página de Inicio
 
@@ -26,14 +26,48 @@ Mostramos como registrar, por ejemplo, al usuario con mail pedro123@gmail.com.
 
 *Crear una cuenta con nombre y contraseña*
 
+
+## Inicio de sesión
+
+Una vez que se crea un usuario con mail y contraseña, ya puede loggearse en la aplicación desde el ícono de inicio de sesión en la pantalla inicial. 
+
+<img src="https://user-images.githubusercontent.com/65830097/207970506-1e902162-9f0f-4fde-b22b-65225533ba93.png" width=20% height=20%>
+
+*Pantalla de Inicio de Sesión*
+
+## Recuperar contraseña
+
+En caso de que se haya olvidado la contraseña, puede presionar **Recuperar contraseña** en la pantalla de inicio de sesión. Esto llevará a la siguiente vista, en la que se completa el mail del usuario. 
+
+
+<img src="https://user-images.githubusercontent.com/65830097/207971040-bba88dd3-70f3-4889-9b2e-d743665e93e3.png" width=20% height=20%>
+
+*Pantalla de recupero de contraseña*
+
+La aplicación se encarga de enviar un mail sin costo al usuario, desde el cual puede restablecer la contraseña.
+
+
+
+
 ## Completar el perfil
-Una vez que se registra el usuario en la aplicación, debe ingresar ciertos datos personales para poder acceder a las funcionalidades comunes a cualquier pasajero.
+Una vez que el usuario inicia sesión en la aplicación, se verifica si el usuario completó ya su perfil. En caso de no haberlo hecho, debe ingresar ciertos datos personales para poder acceder a las funcionalidades comunes a cualquier pasajero.
 
 <img src="https://user-images.githubusercontent.com/65830097/207968258-e5decbcb-db20-4156-8058-870126a3ecfd.png" width=20% height=20%>
 
-La aplicación da una ayuda para poder ingresar dirección válida.
+*Completar el perfil*
+
+La aplicación da una ayuda para poder ingresar una dirección válida y seleccionarla.
 
 <img src="https://user-images.githubusercontent.com/65830097/207968279-abb5c05b-4674-47dd-b87f-6ea8e6929f1c.png" width=20% height=20%>
+
+*Ejemplo del perfil de Pedro*
+
+Al confirmar, se espera a la confirmación de la creación de perfil y se sigue en la página principal de la aplicación.
+
+<img src="https://user-images.githubusercontent.com/65830097/207969218-eaa83da9-cbd6-45ac-aa96-028671572e83.png" width=20% height=20%>
+
+*Pantalla de espera*
+
 
 
 ## Registro con mail y contraseña

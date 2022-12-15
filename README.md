@@ -1,13 +1,30 @@
 # Manual de Usuario para la Aplicación Mobile
 
+La aplicación mobile Fiuber permite conectar pasajeros que solicitan viajes con choferes dispuestos a realizarlos. Este doucmento es un manual para los usuarios (tanto pasajeros como choferes), que busquen gozar de los múltiples beneficios que ofrece Fiuber.  
 
-## Registro
+## Página de Inicio
 
-Una vez que se levanta la aplicación, se observa la siguiente pantalla. 
+La primera pantalla que se observa al levantar la aplicación es la siguiente. 
 
-FOTO PAGINA PPAL
+![image](https://user-images.githubusercontent.com/65830097/207965446-3860f7ba-c247-4b9f-a02a-dd10a15df14c.png)
 
-Si un usuario es nuevo, se debe registrar. El registro puede realizarse mediante mail y contraseña, o se puede ingresar sesión con Google.
+*Página de Inicio*
+
+Desde la misma se puede iniciar sesión con nombre y contraseña, acceder con una cuenta Google, o crear una cuenta.
+
+
+## Crear una cuenta
+El registro se realiza llenando los campos de mail y contraseña.
+
+![image](https://user-images.githubusercontent.com/65830097/207965892-bff4510a-b0b0-434b-9aa1-250b3733b1ef.png)
+
+*Crear una cuenta*
+
+Mostramos como registrar, por ejemplo, al usuario con mail pedro123@gmail.com.
+
+![image](https://user-images.githubusercontent.com/65830097/207966272-f86aceff-e13c-4548-8a82-4a0165dc8c8f.png)
+
+*Crear una cuenta con nombre y contraseña*
 
 
 ## Registro con mail y contraseña

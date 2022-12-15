@@ -254,11 +254,21 @@ Durante el viaje en curso, el chofer puede cancelarlo y no se beneficiar√° econ√
 
 
 ### Fin de viaje
-
+Si el chofer finaliza el viaje, se muestra la siguiente pantalla.
 
 <img src="https://user-images.githubusercontent.com/65830097/207986141-75a271f0-d243-4414-80fa-d50f7f1642f8.png" width=20% height=20%>
 
-**
+*Viaje Finalizado*
+
+
+### Viaje Cancelado
+A su vez, si lo cancela, se muestra el mensaje correspondiente.
+
+<img src="https://user-images.githubusercontent.com/65830097/207986762-8d8ab406-06de-4bc3-b3c5-0b53e9e2038e.png" width=20% height=20%>
+
+*Viaje Cancelado*
+
+
 
 <img src="" width=20% height=20%>
 

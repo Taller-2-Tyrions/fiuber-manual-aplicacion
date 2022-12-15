@@ -16,15 +16,24 @@ Desde la misma se puede iniciar sesión con nombre y contraseña, acceder con un
 ## Crear una cuenta
 El registro se realiza llenando los campos de mail y contraseña.
 
-![image](https://user-images.githubusercontent.com/65830097/207965892-bff4510a-b0b0-434b-9aa1-250b3733b1ef.png)
+<img src="https://user-images.githubusercontent.com/65830097/207965892-bff4510a-b0b0-434b-9aa1-250b3733b1ef.png" width=20% height=20%>
 
 *Crear una cuenta*
 
 Mostramos como registrar, por ejemplo, al usuario con mail pedro123@gmail.com.
 
-![image](https://user-images.githubusercontent.com/65830097/207966272-f86aceff-e13c-4548-8a82-4a0165dc8c8f.png)
+<img src="https://user-images.githubusercontent.com/65830097/207966272-f86aceff-e13c-4548-8a82-4a0165dc8c8f.png" width=20% height=20%>
 
 *Crear una cuenta con nombre y contraseña*
+
+## Completar el perfil
+Una vez que se registra el usuario en la aplicación, debe ingresar ciertos datos personales para poder acceder a las funcionalidades comunes a cualquier pasajero.
+
+<img src="https://user-images.githubusercontent.com/65830097/207968258-e5decbcb-db20-4156-8058-870126a3ecfd.png" width=20% height=20%>
+
+La aplicación da una ayuda para poder ingresar dirección válida.
+
+<img src="https://user-images.githubusercontent.com/65830097/207968279-abb5c05b-4674-47dd-b87f-6ea8e6929f1c.png" width=20% height=20%>
 
 
 ## Registro con mail y contraseña

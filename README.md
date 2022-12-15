@@ -133,7 +133,7 @@ Al seleccionar **Iniciar Viaje** se pasa a la siguiente pantalla en la que se se
 
 ### Seleccionar Conductor
 
-Luego de confirmar el origen y destino del viaje, se presentan una serie de choferes disponibles para el pasajero, junto con el precio estimado de cada uno. Además, se pueden observar los reviews recibidos por otros viajes que realizó.
+Luego de confirmar el origen y destino del viaje, se presentan una serie de choferes disponibles para el pasajero, junto con el precio estimado de cada uno. Además, se pueden observar los reviews recibidos por otros viajes que realizó, la capacidad y el modelo del auto.
 
 <img src="https://user-images.githubusercontent.com/65830097/207976248-1bd32b29-454f-45c3-b4d4-a24c57b6a447.png" width=20% height=20%>
 
@@ -144,9 +144,47 @@ Luego de confirmar el origen y destino del viaje, se presentan una serie de chof
 *Lista de choferes disponibles*
 
 
-Al seleccionar un viaje, se le solicita al chofer que confirme si desea llevarlo a cabo. Si el pasajero no tiene el saldo suficiente para 
+Al seleccionar un viaje, se le solicita al chofer que confirme si desea llevarlo a cabo. 
+
+<img src="https://user-images.githubusercontent.com/65830097/207978820-c5467db4-24bd-4b56-a19c-e60d47eaa7ce.png" width=20% height=20%>
+
+Si el pasajero lo considera necesario, puede cancelar el viaje sin costo alguno, hasta tanto el chofer no haya aceptado el mismo.
 
 
+*Pantalla de espera por la confirmación del chofer*
+
+Por otro lado, si el pasajero no tiene el saldo suficiente para costear el viaje, no se le permite ejecutarlo.
+
+<img src="https://user-images.githubusercontent.com/65830097/207978771-c8271033-3a76-4681-a1b4-ca3ebca970e1.png" width=20% height=20%>
+
+*Caso negativo: fondos insuficientes*
+
+### Chofer en viaje
+
+Una vez que el chofer acepta realizar el viaje, el flujo continúa en una pantalla de espera. 
+
+<img src="https://user-images.githubusercontent.com/65830097/207979794-5aac939f-a783-41bd-8b69-15a871628053.png" width=20% height=20%>
+
+*Espera por el chofer*
+
+Cuando el conductor está próximo a arribar al lugar de origen, el cliente recibe una notificación push indicándole que en breve llega el chofer. 
+
+<img src="https://user-images.githubusercontent.com/65830097/207980088-535469fb-264c-414d-b4dd-5eb52768186a.png" width=20% height=20%>
+
+*Chofer próximo a arribar*
+
+### Viaje en curso
+
+
+<img src="" width=20% height=20%>
+
+
+<img src="" width=20% height=20%>
+<img src="" width=20% height=20%>
+<img src="" width=20% height=20%>
+<img src="" width=20% height=20%>
+
+<img src="" width=20% height=20%>
 
 
 

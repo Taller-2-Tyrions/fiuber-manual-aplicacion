@@ -274,17 +274,23 @@ A su vez, si lo cancela, se muestra el mensaje correspondiente.
 
 
 ## Historial de Viajes
+Tanto el conductor como el pasajero tienen la posibilidad de visualizar el historial de viajes realizados.
 
 <img src="https://user-images.githubusercontent.com/65830097/207987616-403a87f9-7af2-4d26-a11f-ea097632f3b0.png" width=20% height=20%>
 
-*Ultimos Viajes*
+*Visualizar ultimos Viajes*
 
 
-## Calificar Conductor / Pasajero
+### Calificar Conductor / Pasajero
+Todos los viajes pueden calificarse con una nota de 1 a 5 estrellas, siendo 5 estrellas la mejor nota.
 
 <img src="https://user-images.githubusercontent.com/65830097/207987671-bc84c9d3-a22a-42e5-9384-ac5a7204185a.png" width=20% height=20%>
 
-## Denunciar Conductor
+*Calificación del viaje realizado*
+
+
+### Denunciar Conductor
+A su vez, se puede denunciar al conductor para notificar a los administradores de un comportamiento indebido.
 
 <img src="https://user-images.githubusercontent.com/65830097/207987696-cf2ee36b-8594-48a5-a5d8-21f67ee9eae7.png" width=20% height=20%>
 

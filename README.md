@@ -221,6 +221,10 @@ Al igual que en la parte del pasajero, el chofer puede visualizar los datos los 
 ### Búsqueda de Pasajero
 Al ingresar a la aplicación de chofer, el usuario activa la búsqueda de pasajeros. Esto es, los pasajeros pueden solicitarle viajes. Cuando un pasajero desea comenzar un viaje con el presente conductor, este último recibe una notificación push.
 
+<img src="https://user-images.githubusercontent.com/65830097/207986280-1d8e8047-ec2e-4221-a11e-91df2ffefa2c.png" width=20% height=20%>
+
+*Chofer decide aceptar o rechar el viaje propuesto*
+
 ### Chofer en viaje
 Si el chofer decide aceptar el viaje, pasa a una pantalla en la que se muestra la ubicación del auto en tiempo real.
 

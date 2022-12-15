@@ -47,6 +47,14 @@ En caso de que se haya olvidado la contraseña, puede presionar **Recuperar cont
 La aplicación se encarga de enviar un mail sin costo al usuario, desde el cual puede restablecer la contraseña.
 
 
+## Inicio de sesión con Google
+
+Si se selecciona el ícono de Google en la pantalla de Inicio, se debe elegir la cuenta con la que se desea acceder a la aplicación.
+
+<img src="https://user-images.githubusercontent.com/65830097/207972622-d1fb0bef-4c66-4dc0-b568-14d16cd71d2f.png" width=20% height=20%>
+
+*Seleccionar cuenta de Google*
+
 
 
 ## Completar el perfil
@@ -69,30 +77,13 @@ Al confirmar, se espera a la confirmación de la creación de perfil y se sigue 
 *Pantalla de espera*
 
 
-
-## Registro con mail y contraseña
-
-Para registrarse con mail y contraseña, ingresar al item **Registrarse** y llenar los campos correspondientes.
-
-FOTO REGISTRAR NOMBRE Y CONTRASEÑA
-
-## Ingreso de sesión con Google
-
-Si se accede con Google, se debe elegir la cuenta con la que se desea acceder, tal como lo mostramos a continuación.
-
-FOTO DAR PERMISOS GOOGLE
-
-## Llenar datos personales
-
-La primera vez que se accede a la aplicación, se deben completar ciertos datos personales. Los mismos son necesarios para tener permiso a solicitar viajes. 
-
-FOTO COMPLETAR DATOS
-
 ## Menú Principal
 
-Ya con el registro finalizado, la aplicación muestra la página principal.
+Mostramos la página principal que se visualiza luego de iniciar sesión.
 
-FOTO PAGINA PRINCIPAL
+<img src="https://user-images.githubusercontent.com/65830097/207973347-8c5bf717-3a2f-4920-a258-089108b6294e.png" width=20% height=20%>
+
+*Menú Principal*
 
 
 Desde la misma, se puede acceder a todas las funcionalidades.
@@ -100,9 +91,7 @@ Desde la misma, se puede acceder a todas las funcionalidades.
 
 ## Visualizar Mi Perfil
 
-Desde la página principal, apretar el ícono LUGAR DONDE ESTA EL PERFIL. Se observa la siguiente pantalla.
+Desde la página principal, seleccionar el ícono con una persona en la esquina superior derecha. La misma muestra la información del perfil del usuario, y permite tanto editar esos campos, como suscribir al usuario al servicio VIP que ofrece Fiuber.
 
-PANTALLA PERFIL
-
-Desde esta es posible modificar los datos del perfil, agregar datos no obligatorios (como la foto de perfil). 
+<img src="https://user-images.githubusercontent.com/65830097/207973986-381d2a6a-54a9-4c6d-8258-bc37c830d3e2.png" width=20% height=20%>
 

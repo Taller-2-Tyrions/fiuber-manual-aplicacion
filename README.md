@@ -273,10 +273,18 @@ A su vez, si lo cancela, se muestra el mensaje correspondiente.
 *Viaje Cancelado*
 
 
+## Historial de Viajes
 
-<img src="" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/65830097/207987616-403a87f9-7af2-4d26-a11f-ea097632f3b0.png" width=20% height=20%>
 
-<img src="" width=20% height=20%>
+*Ultimos Viajes*
 
 
+## Calificar Conductor / Pasajero
+
+<img src="https://user-images.githubusercontent.com/65830097/207987671-bc84c9d3-a22a-42e5-9384-ac5a7204185a.png" width=20% height=20%>
+
+## Denunciar Conductor
+
+<img src="https://user-images.githubusercontent.com/65830097/207987696-cf2ee36b-8594-48a5-a5d8-21f67ee9eae7.png" width=20% height=20%>
 

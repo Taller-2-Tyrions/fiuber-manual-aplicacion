@@ -235,7 +235,9 @@ Al llegar al lugar de origen, recibe una notificación indicando que está próx
 *Chofer llega al origen*
 
 ### Viaje en curso
-Al 
+Una vez que el chofer confirma que el viaje inició, se pasa a la pantalla de viaje en curso para el chofer.
+
+
 
 
 <img src="" width=20% height=20%>

@@ -9,8 +9,6 @@ La primera pantalla que se observa al levantar la aplicación es la siguiente.
 
 <img src="https://user-images.githubusercontent.com/65830097/207965446-3860f7ba-c247-4b9f-a02a-dd10a15df14c.png" data-canonical-src="https://user-images.githubusercontent.com/65830097/207965446-3860f7ba-c247-4b9f-a02a-dd10a15df14c.png" width="20%" height="20%" />
 
-![image]()
-
 
 *Página de Inicio*
 
